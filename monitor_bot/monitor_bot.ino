@@ -1,6 +1,8 @@
 /**************************************************************************************************************************
    Monitor-Bot
-   2017/5/1 nicholaslu
+   monitor_bot.ino
+   Last Modified - 2017/5/1 
+   by nicholaslu
    Change token and varible id to your own
    Change Wi-Fi SSID and password to your own
    Moisture:  # 300 ~400 fully in water
